@@ -2,7 +2,7 @@
   "name": "new-be",
   "packageManager": "yarn@4.5.0",
   "scripts": {
-    "start:dev": "nodemon src/index.ts"
+    "start:dev": "nodemon -r dotenv/config ./src/index.ts"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
