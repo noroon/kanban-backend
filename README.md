@@ -26,5 +26,5 @@ Some of the challenges I faced: ...
 
 ---------------
 Development notes:
--  eslint
+- eslint
 - formatter: delete unused imports, rearrange imports to the top
