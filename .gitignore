@@ -12,12 +12,10 @@
 
 # misc
 .env
-.gitignore
 
 #!.yarn/cache
 .pnp.*
 yarn-debug.log*
 yarn-error.log*
 
-README.md
 .vscode
