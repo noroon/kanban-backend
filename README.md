@@ -27,4 +27,4 @@ Some of the challenges I faced: ...
 ---------------
 Development notes:
 - eslint
-- formatter: delete unused imports, rearrange imports to the top
+- formatter: delete unused imports, rearrange imports to the top, imports with double quotes
